@@ -1,0 +1,7 @@
+{
+  "name": "cnl-app-mobile",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
